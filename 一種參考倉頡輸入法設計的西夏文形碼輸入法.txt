@@ -1,0 +1,7 @@
+一種參考倉頡輸入法設計的西夏文形碼輸入法
+
+https://github.com/CodingKL/rime_tangutcjkk.git
+
+https://github.com/CodingKL/rime_tangutcjkk
+
+https://github.com/Hulenkius/rime_tangutcjkk

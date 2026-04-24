@@ -1,0 +1,174 @@
+西夏文自学指北
+https://matterofti.me/yati/
+https://matterofti.me/yati/
+
+西夏文自学指北（大纲）
+课纲主要是复制、精简、改变了之前上课时候的内容。
+
+第一节课：概述、工具书、重要字典、使用材料
+第二节课：构字法、四角代码、电子工具的使用
+第三节课：构词、句法基本规律
+第四节课：句子翻译练习
+第五节课：方向前缀
+第六节课：名词词组
+第七节课：否定用法
+第八节课：《华严经》翻译
+第九节课：《晋文公列传》翻译
+第十节课: 敦煌借贷契约写本翻译。
+
+view
+西夏文自学指北 第一节课
+主要概述部分参考史金波《西夏文教程》 (提取码: f834) 第一章《西夏的历史和社会》p1-p20.
+下面为补充的一些知识点。
+
+1.誰是Tangoutes?
+Tuoba/Dangxiang 拓跋氏，党项族，中文称法。
+
+Xixia 西夏，成立王国
+
+Minyag (influences tibétains) 他们自称，吐蕃人的影响，称“弥药”
+
+Tang Wu  蒙古人时代 1. 唐兀
+
+Tang Gu Te 蒙古时代的称呼  2. 唐兀惕或唐忽惕
+
+Tangoute/tangout/Tangut 西方学界的称呼方式
+
+2.編年表 （简略）
+主要活跃在唐宋时代。
+
+唐初，党项首领拓跋赤辞助吐谷浑与唐朝作战败降唐，被唐太宗赐姓李，封西戎州都督。
+
+拓跋思恭 881， 因为帮助唐朝攻打黄巢，被唐僖宗赐姓李，封夏州节度使，封夏国公。
+
+李继迁 991-1004 叛宋自立
+
+李德明 1004-1032 与宋朝媾和（1005），赐姓，为夏州刺史。
+
+李元昊 1032-1048 empereur des Mingyag/Xixia/Tangoutes, 1038年成立西夏，统治西北地区（主要是河西走廊）200多年，或被蒙古人所灭。从中文繁体字创造了西夏文字。
+
+3. Lieux votifs
+敦煌莫高窟，直到宋代蒙古人來襲。
+
+bastion de Khara Khoto, 黑水城 – 被俄国考察队占
+
+银川以西，6 tombeaux de premiers empereurs
+
+找到一些迦陵频伽kalaviṅka的statues sous l'influence indienne.
+4. 1. Littérature tangoute
+Textes de lois
+
+Documents commerciaux
+
+Ordonnances médicales
+
+Stèles..
+
+Sutra (tripitaka tranduit complètement sous la base des textes chinois, pl volumes sous dynasties Song)
+
+Textes ayant un original en chinois
+
+Lois et décrets révisés de l'ère de Tiansheng 天盛改舊新定律令
+
+5. Annales officielles de la Chine
+Annales officielles de la Chine
+
+Les 24 histoires officielles
+
+Non Han, pas de Mandat Céleste, pas de rites ( Zhouli ) = pas d'histoire
+
+前人所撰皆零散、简略。
+
+直到：
+
+1825 清， 吴广成 Wu Guangcheng 编的纲目体西夏编年史《西夏书事》。
+
+为什么tangoute在24史中没有地位？chronologie officielle， 因为西夏不被认为是中国的民族，唯一的trace longue écrite 是清代1825年一个Wu Guangcheng 的人写的。他的citation也不够全面、专业，作者本身不是专家，只是记录了一些内容。有一点narratif、 romancier的aspectes。
+
+Les quatres sources principaux = 宋、辽、金史 （蒙古时期，脱脱）中有《夏国传》，有一些information sur les tangoutes. 2 volumes （宋），qq paragraphes （辽、金史）
+
+D'autres sources secondaire à partir 1621, peu fiables
+
+6. 20世纪以来的近代研究
+凉州碑-凉州是当时西夏的一个州，这个碑撰写于西夏第四任皇帝崇宗嵬名乾顺任期，1084or1086-1139之间。1804年清代金石学家张澍发现。现存武威博物馆（旧凉州）。张是第一个开始对西夏文化感兴趣的中国学者。 Devéria是第一个西方学者。
+
+碑文内容，第一部分prose，第二部分诗歌，第三部分供养人名单。Devéria判断有1632个字。西夏文本部分的诗歌部分比中文少，整体一共有1556个字。
+
+沙畹参与了研究。
+
+M.G.Morrise, De l’écriture et de la langue Si-Hia
+
+travaille sur le sutra du lotus, travaillé sur la translittération (très plusieurs fois apparut dans les textes religieux, donc il est pratique de les reconnaitre)
+
+énorme pagode blanche/stupa érigé de style tibétain, il retrouve pl volume de sutra de lotus en tangoutes.妙应寺or白塔寺
+
+(deux volumes de ce sutra concervé, à musée Guillmet)
+
+这两个volume最大的特点是，sur papier noir des 金色的印刷字
+
+明末时候，应该这种有一种interet particulier pour ce type de imprimer
+
+7. 文本来源
+Les sources textuelles
+
+Primaires
+
+secondaire
+
+Tertiaires
+
+Mission Paul Pelliot, mission ruisse....Pelliot a séléctionné des textes et puis tous ces textes。Les principales textes sont à Ruisse, St.Petersbourg. Ensuite 北京国家图书馆， 然后是法国国家图书馆，集美。还有京都大学、大英博物馆。已经有一些大英博物馆已经电子化，然后分享给了敦煌。如法国的图书馆。但是因为是被印度投资的，所以有些还在新德里。……很多材料还没完全电子化。
+
+qq foyers de recherche à Kyoto, St. Pétersbourgue, Londre,Paris (6 personnes environs)
+
+8. 西夏文字
+几种称呼：
+
+西夏文字
+
+河西字 (au corridor de Hexi)
+
+tangoute/Tangut
+
+9. 印刷品
+Les Tangoutes sont trouvés
+
+Principalement en xylographies en caractères mobiles (Song dynastie)
+
+10. 发音
+龚煌城 是第一个开始建立发音系统的。有三种version phonetique
+
+还包括：marc miyake（更简化）， kychanov
+
+phonétique tangoute
+
+ne connait pas le système standard, il y en a trois façons, pour l'instant sert à rien. fin 19世纪才开始掌握。
+
+不需要记发音。
+
+11. 历史字典
+①La mer des caractères, composé vers le 1130 有所有的字以及造字法 expliqué l'agrégat logique。竖行本。《文海》
+
+②Dictionnaire des homophones 《同音》，和文海有关系，essentiels d'écrtures de tangoute, classification en foction de tons et de rimes. (en Tangout, deux tons) 网上声韵一行也有标注 autour de 1032
+
+③Les catégories mixtes 文海杂类, rapproche de la 文海。 形制有点相似。
+
+④Perles opppotune dans la paume, glossaire tangoute-chinois 番漢合時掌中珠 12世紀中葉。解釋所有的字。
+
+⑤Mer des significations établie par les saints, 聖立義海, encyclopédie, 15 volumes
+
+里面可以看到很多受到中文影响的词汇：
+
+如，不说 一月，也用 正月。使用的不是“一”，而是用“正”，表示droit的那个词。十二月也是说“腊月”而不是“十二月”。
+
+view
+西夏文自学指北 第二节课
+构字法、四角代码、电子工具的使用。
+
+1.构字法
+Ninshita Datsuo 西田龍雄，《西夏研究》 ，找出了近 350种西夏文构字的 éléments fondamentaux, 然后总结了44种构字法。李范文采取西田的研究，然后总结成表，放在他的2000年出版的书中。目前因为西夏文没有一个标准的发音规则，所以暂时只用掌握字形和字义。
+
+简单来介绍六种最常见的西夏文构字法。（更多详细参考史金波《西夏文教程》P108-，两者讲得不一样）
+
+① caractères simples, base graphique,单纯字
+
